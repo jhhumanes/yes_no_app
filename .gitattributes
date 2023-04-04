@@ -1,0 +1,2 @@
+*.cpp linguist-detectable=false
+*.CMAKE linguist-detectable=false
